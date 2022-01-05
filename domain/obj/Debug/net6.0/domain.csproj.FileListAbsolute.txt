@@ -1,0 +1,12 @@
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.csproj.AssemblyReference.cache
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.AssemblyInfoInputs.cache
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.AssemblyInfo.cs
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\zane.gray\workspace\tmp\domain\bin\Debug\net6.0\domain.deps.json
+C:\Users\zane.gray\workspace\tmp\domain\bin\Debug\net6.0\domain.dll
+C:\Users\zane.gray\workspace\tmp\domain\bin\Debug\net6.0\ref\domain.dll
+C:\Users\zane.gray\workspace\tmp\domain\bin\Debug\net6.0\domain.pdb
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.dll
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\ref\domain.dll
+C:\Users\zane.gray\workspace\tmp\domain\obj\Debug\net6.0\domain.pdb

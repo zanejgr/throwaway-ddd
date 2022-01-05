@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "bwAmyFjCjuGn1/+LipZVwcHpEOr5D1w9Zlr9v8CM8IMj43JiWoxafmzH6r0U40WmaJgx0p/RpsxQdvw3psdQmw==",
+  "dgSpecHash": "pGs4Q6qFWTkgy7mmi0FlU9yx38fZtNYYEGJHn7Au4fupPqhEL+VkjdTfCH6S1ZiNq6K8GAMfXzHsGzq4KqOLug==",
   "success": true,
   "projectFilePath": "C:\\Users\\zane.gray\\workspace\\tmp\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zane.gray\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\zane.gray\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.1\\microsoft.entityframeworkcore.sqlite.6.0.1.nupkg.sha512",
     "C:\\Users\\zane.gray\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.1\\microsoft.entityframeworkcore.sqlite.core.6.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zane.gray\\workspace\\tmp\\domain\\domain.csproj": {}
+    "C:\\Users\\zane.gray\\workspace\\tmp\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zane.gray\\workspace\\tmp\\domain\\domain.csproj": {
+    "C:\\Users\\zane.gray\\workspace\\tmp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zane.gray\\workspace\\tmp\\domain\\domain.csproj",
-        "projectName": "domain",
-        "projectPath": "C:\\Users\\zane.gray\\workspace\\tmp\\domain\\domain.csproj",
+        "projectUniqueName": "C:\\Users\\zane.gray\\workspace\\tmp\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\zane.gray\\workspace\\tmp\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\zane.gray\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zane.gray\\workspace\\tmp\\domain\\obj\\",
+        "outputPath": "C:\\Users\\zane.gray\\workspace\\tmp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zane.gray\\AppData\\Roaming\\NuGet\\NuGet.Config"
